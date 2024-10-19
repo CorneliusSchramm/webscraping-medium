@@ -55,7 +55,6 @@ def get_articles_with_missing_markdown():
         return []
 
 def get_markdown_from_url(url: str, cookie: str) -> str:
-    time.sleep(5)
     params = {
         "headers": {
             "Cookie": cookie
@@ -87,7 +86,7 @@ number_of_articles = len(url_list)
 print("number_of_articles :", number_of_articles)
 
 consecutive_failures = 0
-max_failures = 3
+max_failures = 6
 number_of_articles_scraped = 0
 
 for url in url_list:
@@ -107,5 +106,6 @@ for url in url_list:
         number_of_articles_scraped += 1
     else:
         print(Fore.RED + f"Failed to fetch markdown for article: {medium_url}")
+        print()
         consecutive_failures += 1
-        time.sleep(2)  # Wait for 2 seconds before moving to the next URL
+    time.sleep(5)
