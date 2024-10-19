@@ -1,0 +1,854 @@
+[
+    {
+        "data": {
+            "personalisedTagFeed": {
+                "items": [
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "286a82ec278e",
+                            "title": "How to Be a Better Software Engineering Leader",
+                            "previewImage": {
+                                "id": "1*Oud9jW6nwGztWl1mGk4F3w.png",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Strategies for Elevating Your Engineering Leadership",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "c6584fe2de9d",
+                                "name": "Mirek Stanek",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:c6584fe2de9d-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "froger_mcs",
+                                "bio": "I empower leaders through practice 🛠️💡✨. Site Leader and Director of Engineering at Papaya Global. Ex-Head of Engineering at Azimo.",
+                                "imageId": "1*2fqJoMNihNVFYRyJD2IUQA@2x.jpeg",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "92d1dfd4c197"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://blog.practicalengineering.management/how-to-be-a-better-software-engineering-leader-286a82ec278e",
+                            "collection": {
+                                "id": "de90c1659654",
+                                "slug": "practical-engineering-management",
+                                "__typename": "Collection",
+                                "name": "Practical Engineering Management",
+                                "viewerEdge": {
+                                    "id": "collectionId:de90c1659654-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "blog.practicalengineering.management",
+                                "description": "How to be an effective leader or manager in the software engineering industry. Practical hints and stories to maximize the success of our teams and their influence on a company.",
+                                "subscriberCount": 922,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*UwuHH-JGGpSvf6APwgt3iA.png",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 10,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 1228,
+                            "isLocked": false,
+                            "firstPublishedAt": 1709137018604,
+                            "latestPublishedAt": 1712000289814,
+                            "pinnedAt": 0,
+                            "readingTime": 9.163522012578616,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "how-to-be-a-better-software-engineering-leader-286a82ec278e"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "126d1578411e",
+                            "title": "8 Powerful Marketing Tools You’ve Never Heard Of (But Should Be Using)",
+                            "previewImage": {
+                                "id": "1*ybmh49Jn-H24XnWw1soBCA.png",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": "Image displaying a webpage heatmap generated by Crazy Egg. The heatmap shows areas of high user interaction on a webpage titled ‘The Definitive Guide to Growth Hacking’ by Neil Patel. The heatmap highlights hotspots in the navigation menu and key call-to-action areas, illustrating where users are most engaged. This visualization demonstrates how Crazy Egg’s tool helps optimize website design and content placement for better user engagement."
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "If you’re still ignoring these tools, you’re probably doing marketing wrong.",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "245df26bd36b",
+                                "name": "Jano le Roux",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:245df26bd36b-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": {
+                                    "live": {
+                                        "domain": "janoleroux.com",
+                                        "__typename": "CustomDomain"
+                                    },
+                                    "__typename": "CustomDomainState"
+                                },
+                                "hasSubdomain": true,
+                                "username": "janoleroux",
+                                "bio": "An award-winning marketing consultant who helps high-growth brands craft marketing that doesn’t feel like marketing. Open for work—jano@likeflare.com—Join me ⤵️",
+                                "imageId": "1*MEs4LPfHfJmp48pQcgyC5A@2x.jpeg",
+                                "membership": {
+                                    "tier": "FRIEND",
+                                    "__typename": "Membership",
+                                    "id": "6ae53d096436"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://medium.com/swlh/8-powerful-marketing-tools-youve-never-heard-of-but-should-be-using-126d1578411e",
+                            "collection": {
+                                "id": "f5af2b715248",
+                                "slug": "swlh",
+                                "__typename": "Collection",
+                                "name": "The Startup",
+                                "viewerEdge": {
+                                    "id": "collectionId:f5af2b715248-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": null,
+                                "description": "Get smarter at building your thing. Follow to join The Startup’s +8 million monthly readers & +772K followers.",
+                                "subscriberCount": 806168,
+                                "customStyleSheet": {
+                                    "header": {
+                                        "backgroundImage": null,
+                                        "__typename": "HeaderStyles"
+                                    },
+                                    "__typename": "CustomStyleSheet",
+                                    "id": "47e18467fd3d"
+                                },
+                                "avatar": {
+                                    "id": "1*pKOfOAOvx-fWzfITATgGRg.jpeg",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 18,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "LOCKED",
+                            "clapCount": 988,
+                            "isLocked": true,
+                            "firstPublishedAt": 1723192641174,
+                            "latestPublishedAt": 1723192641174,
+                            "pinnedAt": 0,
+                            "readingTime": 7.123584905660378,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "8-powerful-marketing-tools-youve-never-heard-of-but-should-be-using-126d1578411e"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "66748730cece",
+                            "title": "As a Product Manager, here’s how I *actually* use ChatGPT at work",
+                            "previewImage": {
+                                "id": "1*dtU5sSXV4ggmDjlGSHl7Qw.jpeg",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Spoiler alert: no, I don’t use it to come up with new product features.",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "a464a7b3b7bb",
+                                "name": "Joy Zhang",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:a464a7b3b7bb-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": {
+                                    "live": {
+                                        "domain": "joooyz.medium.com",
+                                        "__typename": "CustomDomain"
+                                    },
+                                    "__typename": "CustomDomainState"
+                                },
+                                "hasSubdomain": true,
+                                "username": "joooyz",
+                                "bio": "Product Manager in AI & Medtech. Previously founded gocoder.one. Building in public @ https://beacons.ai/joyfullystudio",
+                                "imageId": "1*RN7jBa57oDtGv-30-1HMPA.png",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "47d11ccab680"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://pub.towardsai.net/as-a-product-manager-heres-how-i-actually-use-chatgpt-at-work-66748730cece",
+                            "collection": {
+                                "id": "98111c9905da",
+                                "slug": "towards-artificial-intelligence",
+                                "__typename": "Collection",
+                                "name": "Towards AI",
+                                "viewerEdge": {
+                                    "id": "collectionId:98111c9905da-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "pub.towardsai.net",
+                                "description": "The leading AI community and content platform focused on making AI accessible to all",
+                                "subscriberCount": 56790,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*JyIThO-cLjlChQLb6kSlVQ.png",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 14,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "LOCKED",
+                            "clapCount": 555,
+                            "isLocked": true,
+                            "firstPublishedAt": 1717804953813,
+                            "latestPublishedAt": 1723721553329,
+                            "pinnedAt": 0,
+                            "readingTime": 5.324528301886793,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "as-a-product-manager-heres-how-i-actually-use-chatgpt-at-work-66748730cece"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 107,
+                        "post": {
+                            "id": "3443da5d4b36",
+                            "title": "Founder Mode is Not for Product Managers",
+                            "previewImage": {
+                                "id": "1*ZHo64Ft7zw0jM7YmLHPTNQ.jpeg",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Doing it will most likely get you fired.",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "57bf023212ec",
+                                "name": "Product Dave 💡",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:57bf023212ec-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": {
+                                    "live": {
+                                        "domain": "productdave.medium.com",
+                                        "__typename": "CustomDomain"
+                                    },
+                                    "__typename": "CustomDomainState"
+                                },
+                                "hasSubdomain": true,
+                                "username": "productdave",
+                                "bio": "Helping people find a fulfiling career in PM | Group Product Manager at Linktree | Learn PM for free from me at: https://www.productacademy.io/",
+                                "imageId": "2*hC-lycjwPse__oQCBwcqlQ.png",
+                                "membership": null
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://productcoalition.com/founder-mode-is-not-for-product-managers-3443da5d4b36",
+                            "collection": {
+                                "id": "384859bd8e6d",
+                                "slug": "managing-digital-products",
+                                "__typename": "Collection",
+                                "name": "Product Coalition",
+                                "viewerEdge": {
+                                    "id": "collectionId:384859bd8e6d-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "productcoalition.com",
+                                "description": "The world's largest independent product management education community. 1m+ readers. 17,000 podcast downloads. 3,500+ articles. 7,000+ Slack members. By Jay Stansell and Tremis Skeete.",
+                                "subscriberCount": 38401,
+                                "customStyleSheet": {
+                                    "header": {
+                                        "backgroundImage": {
+                                            "id": "1*E601aNqc2Y7pgRGvsDv5YA.jpeg",
+                                            "__typename": "ImageMetadata"
+                                        },
+                                        "__typename": "HeaderStyles"
+                                    },
+                                    "__typename": "CustomStyleSheet",
+                                    "id": "87517f8479fc"
+                                },
+                                "avatar": {
+                                    "id": "1*T75xE1GDeudHmCQ3d4aYzQ.png",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 6,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "LOCKED",
+                            "clapCount": 264,
+                            "isLocked": true,
+                            "firstPublishedAt": 1727080310366,
+                            "latestPublishedAt": 1727113072440,
+                            "pinnedAt": 0,
+                            "readingTime": 5.438679245283018,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "founder-mode-is-not-for-product-managers-3443da5d4b36"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "873d5d4ae4a2",
+                            "title": "10 unconventional lessons from 10 years working as a software engineer",
+                            "previewImage": {
+                                "id": "1*JqAFIerASPGTn4H9X7t_ag.jpeg",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Practical advice to build an effective and sustainable career in tech",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "a6f9bc7e34a6",
+                                "name": "Pablo Porto",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:a6f9bc7e34a6-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "pablo.porto",
+                                "bio": "Tech lead at Thoughtworks. I write about effective data and software engineering practices and how to build a sustainable but effective career in tech.",
+                                "imageId": "1*dO-kMbofE6GAzBRw-agHHA.png",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "2a2560450fde"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://levelup.gitconnected.com/10-unconventional-lessons-from-10-years-working-as-a-software-engineer-873d5d4ae4a2",
+                            "collection": {
+                                "id": "5517fd7b58a6",
+                                "slug": "gitconnected",
+                                "__typename": "Collection",
+                                "name": "Level Up Coding",
+                                "viewerEdge": {
+                                    "id": "collectionId:5517fd7b58a6-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "levelup.gitconnected.com",
+                                "description": "Coding tutorials and news. The developer homepage gitconnected.com && skilled.dev && levelup.dev",
+                                "subscriberCount": 153496,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*5D9oYBd58pyjMkV_5-zXXQ.jpeg",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 64,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 2841,
+                            "isLocked": false,
+                            "firstPublishedAt": 1706219635852,
+                            "latestPublishedAt": 1724777867053,
+                            "pinnedAt": 0,
+                            "readingTime": 10.79182389937107,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "10-unconventional-lessons-from-10-years-working-as-a-software-engineer-873d5d4ae4a2"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "65dea77d2c18",
+                            "title": "The AI Revolution: How Vertical and Horizontal AI are Transforming Industries",
+                            "previewImage": {
+                                "id": "1*bT1cYc4W9gDb97aHGMG56w@2x.jpeg",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": ""
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "2cf41f8a48e5",
+                                "name": "Liat Ben-Zur",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:2cf41f8a48e5-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "LiatBenZur",
+                                "bio": "Digital Transformation Leader | Strategic Advisor | PLG, Product Management, IoT & AI Disruption | Diversity & Inclusion | Speaker | Board Member | ex-CVP MSFT",
+                                "imageId": "0*-fLySCaCeG3kJE0b.jpeg",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "06992446e392"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://medium.com/@LiatBenZur/the-ai-revolution-how-vertical-and-horizontal-ai-are-transforming-industries-65dea77d2c18",
+                            "collection": null,
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 0,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 125,
+                            "isLocked": false,
+                            "firstPublishedAt": 1711926469991,
+                            "latestPublishedAt": 1711926469991,
+                            "pinnedAt": 0,
+                            "readingTime": 6.2163522012578625,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "the-ai-revolution-how-vertical-and-horizontal-ai-are-transforming-industries-65dea77d2c18"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 107,
+                        "post": {
+                            "id": "3ee88c8f93d6",
+                            "title": "Inbound and Outbound Strategies",
+                            "previewImage": {
+                                "id": "1*2V4fzW69F2pWcsbSXS17gA.png",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Once it’s successful, what does a company do next?",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "74c08f054aca",
+                                "name": "Nir Zicherman",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:74c08f054aca-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "NirZicherman",
+                                "bio": "Writer and entrepreneur. Former VP of Audiobooks at Spotify; Co-Founder of Anchor; subscribe to my free weekly newsletter Z-Axis at www.zaxis.page",
+                                "imageId": "1*jB35LNJkgPmAM_7a7iqXmw.jpeg",
+                                "membership": null
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://ehandbook.com/inbound-and-outbound-strategies-3ee88c8f93d6",
+                            "collection": {
+                                "id": "7adf33e44ae3",
+                                "slug": "entrepreneur-s-handbook",
+                                "__typename": "Collection",
+                                "name": "Entrepreneurship Handbook",
+                                "viewerEdge": {
+                                    "id": "collectionId:7adf33e44ae3-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "ehandbook.com",
+                                "description": "How to succeed in entrepreneurship; feat. founder stories, design articles, and startup deep dives that inspire your entrepreneurial journey.",
+                                "subscriberCount": 276890,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*8sfeJBcpkpaPmv9Epi2Pjw.png",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 7,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 416,
+                            "isLocked": false,
+                            "firstPublishedAt": 1698750358621,
+                            "latestPublishedAt": 1698919975690,
+                            "pinnedAt": 0,
+                            "readingTime": 7.411320754716981,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "inbound-and-outbound-strategies-3ee88c8f93d6"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "8f376ee6a406",
+                            "title": "Different Styles of Engineering Leadership",
+                            "previewImage": {
+                                "id": "1*FpnONEuTSDwG-aNoSMdV6w.png",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Micromanagement, Center-out Leadership, Psychological Safety Leadership, and others",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "c6584fe2de9d",
+                                "name": "Mirek Stanek",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:c6584fe2de9d-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "froger_mcs",
+                                "bio": "I empower leaders through practice 🛠️💡✨. Site Leader and Director of Engineering at Papaya Global. Ex-Head of Engineering at Azimo.",
+                                "imageId": "1*2fqJoMNihNVFYRyJD2IUQA@2x.jpeg",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "92d1dfd4c197"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://blog.practicalengineering.management/different-styles-of-engineering-leadership-8f376ee6a406",
+                            "collection": {
+                                "id": "de90c1659654",
+                                "slug": "practical-engineering-management",
+                                "__typename": "Collection",
+                                "name": "Practical Engineering Management",
+                                "viewerEdge": {
+                                    "id": "collectionId:de90c1659654-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "blog.practicalengineering.management",
+                                "description": "How to be an effective leader or manager in the software engineering industry. Practical hints and stories to maximize the success of our teams and their influence on a company.",
+                                "subscriberCount": 922,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*UwuHH-JGGpSvf6APwgt3iA.png",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 12,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 804,
+                            "isLocked": false,
+                            "firstPublishedAt": 1713973823798,
+                            "latestPublishedAt": 1713973823798,
+                            "pinnedAt": 0,
+                            "readingTime": 8.81069182389937,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "different-styles-of-engineering-leadership-8f376ee6a406"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 107,
+                        "post": {
+                            "id": "a0cd43ea7f8d",
+                            "title": "We wanted to improve quality. So we ditched the QA.",
+                            "previewImage": {
+                                "id": "0*G3P9bklQwMGzUlOO",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Taking away the safety net can help cultivate a culture of quality",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "10e2ae93c28e",
+                                "name": "Mark Somerfield",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:10e2ae93c28e-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": null,
+                                "hasSubdomain": false,
+                                "username": "somerfield.md",
+                                "bio": "I'm CTO at a London-based startup. 20 years experience as a software engineer. Neurodivergent.",
+                                "imageId": "1*JZ5TTBWv0TXlxeuuSqgetQ.jpeg",
+                                "membership": {
+                                    "tier": "MEMBER",
+                                    "__typename": "Membership",
+                                    "id": "a7a6ed233b6e"
+                                }
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://levelup.gitconnected.com/we-wanted-to-improve-quality-so-we-ditched-the-qa-a0cd43ea7f8d",
+                            "collection": {
+                                "id": "5517fd7b58a6",
+                                "slug": "gitconnected",
+                                "__typename": "Collection",
+                                "name": "Level Up Coding",
+                                "viewerEdge": {
+                                    "id": "collectionId:5517fd7b58a6-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "CollectionViewerEdge"
+                                },
+                                "domain": "levelup.gitconnected.com",
+                                "description": "Coding tutorials and news. The developer homepage gitconnected.com && skilled.dev && levelup.dev",
+                                "subscriberCount": 153496,
+                                "customStyleSheet": null,
+                                "avatar": {
+                                    "id": "1*5D9oYBd58pyjMkV_5-zXXQ.jpeg",
+                                    "__typename": "ImageMetadata"
+                                }
+                            },
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 12,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "LOCKED",
+                            "clapCount": 391,
+                            "isLocked": true,
+                            "firstPublishedAt": 1725238976230,
+                            "latestPublishedAt": 1725270817004,
+                            "pinnedAt": 0,
+                            "readingTime": 9.018867924528301,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "we-wanted-to-improve-quality-so-we-ditched-the-qa-a0cd43ea7f8d"
+                        },
+                        "__typename": "TagFeedItem"
+                    },
+                    {
+                        "feedId": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "moduleSourceEncoding": 17,
+                        "reason": 85,
+                        "post": {
+                            "id": "2662b7548a6c",
+                            "title": "How to do a startup, according to YC data",
+                            "previewImage": {
+                                "id": "0*yDp-XSEhS6-XGIZt",
+                                "__typename": "ImageMetadata",
+                                "focusPercentX": null,
+                                "focusPercentY": null,
+                                "alt": null
+                            },
+                            "extendedPreviewContent": {
+                                "subtitle": "Lessons learned from studying 4,000+ YC Companies",
+                                "__typename": "PreviewContent",
+                                "isFullContent": false
+                            },
+                            "__typename": "Post",
+                            "creator": {
+                                "id": "3843f0acc74b",
+                                "name": "Santiago M. Quintero",
+                                "__typename": "User",
+                                "viewerEdge": {
+                                    "id": "userId:3843f0acc74b-viewerId:452d48508191",
+                                    "isMuting": false,
+                                    "__typename": "UserViewerEdge"
+                                },
+                                "verifications": {
+                                    "isBookAuthor": false,
+                                    "__typename": "VerifiedInfo"
+                                },
+                                "customDomainState": {
+                                    "live": {
+                                        "domain": "santiagoq.medium.com",
+                                        "__typename": "CustomDomain"
+                                    },
+                                    "__typename": "CustomDomainState"
+                                },
+                                "hasSubdomain": true,
+                                "username": "santiagoq",
+                                "bio": "Entrepreneur, Software Engineer & Writer specialized in building ideas to test Product Market Fit and NLP-AI user-facing applications.",
+                                "imageId": "1*8GhP9-BT7C100Mo4_nPZKw.jpeg",
+                                "membership": null
+                            },
+                            "isPublished": true,
+                            "mediumUrl": "https://santiagoq.medium.com/how-do-do-a-startup-according-to-yc-2662b7548a6c",
+                            "collection": null,
+                            "isLimitedState": false,
+                            "allowResponses": true,
+                            "postResponses": {
+                                "count": 5,
+                                "__typename": "PostResponses"
+                            },
+                            "visibility": "PUBLIC",
+                            "clapCount": 313,
+                            "isLocked": false,
+                            "firstPublishedAt": 1716431869153,
+                            "latestPublishedAt": 1718038334928,
+                            "pinnedAt": 0,
+                            "readingTime": 9.660377358490566,
+                            "sequence": null,
+                            "isSeries": false,
+                            "uniqueSlug": "how-do-do-a-startup-according-to-yc-2662b7548a6c"
+                        },
+                        "__typename": "TagFeedItem"
+                    }
+                ],
+                "pagingInfo": {
+                    "next": {
+                        "source": "ae670fa7-b327-4603-9f4e-cddcb9390add",
+                        "limit": 10,
+                        "from": "20",
+                        "to": "30",
+                        "__typename": "PageParams"
+                    },
+                    "__typename": "Paging"
+                },
+                "__typename": "PersonalisedTagFeedResult"
+            }
+        }
+    }
+]
